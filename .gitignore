@@ -1,0 +1,5 @@
+# Abaikan folder node_modules di semua direktori
+**/node_modules
+
+# Abaikan file .env yang berisi kunci rahasia
+backend/.env
